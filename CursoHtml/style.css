@@ -1,0 +1,21 @@
+img {
+    display: block;
+    margin:auto;
+}
+body{
+    background-color: rgb(253, 224, 245);
+}
+
+div{
+    background-color: rgb(255, 255, 255);
+    margin-top: 12mm;
+
+    margin-left: 6%;
+    margin-right: 6%;
+    min-height: 90vh;
+}
+
+footer{
+    text-align: center;
+}
+

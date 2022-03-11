@@ -1,0 +1,49 @@
+    <section class="l-section s-py-4">
+        <!-- Separación del contenido en columnas -->
+        <div class="ed-grid lg-grid-2 row-gap s-gap-2 m-gap-4">
+
+          <!-- Contenido de la columna 1 -->
+          <div class="s-column s-main-center lg-main-start lg-cross-start s-center lg-left">
+            <section class="hero is-success is-halfheight">
+                <div class="hero-body">
+                  <div class="">
+                    <p class="title">
+                      Fight Virus With Vaccines
+                    </p>
+                    <p class="subtitle" has-text-centered>
+                      Let's stop this pandemic by killing the virus with a vaccine
+                    <br>
+                    Don't let <strong>yourself and your family</strong> get infected
+                    </p>
+                  </div>
+                </div>
+              </section>
+
+
+          <!-- Contenido de la columna 2 -->
+          <div>
+    <div class="img-container s-ratio-16-9">
+              <img class="s-radius-1" src="vaccines.jpg">
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+        <section class="hero is-info is-medium">
+        <div class="hero-body">
+
+          <div class="">
+            <p class="title">
+              Fight Virus With Vaccines
+            </p>
+            <p class="subtitle has-text-centered">
+              Let's stop this pandemic by killing the virus with a vaccine
+              <br>
+              Don't let <strong>yourself and your family</strong> get infected
+            </p>
+          </div>
+
+          <img src="photo.png" style="display:block; margin-left:auto; margin-right:10%"/>
+        </div>
+      </section>
